@@ -49,6 +49,48 @@
                 "Generative AI",
                 "Streamlit"
             ]
+        },
+        {
+            "image" : "images/projects/final_image_small.PNG",
+            "title": "Deep Learning - disease Classifier",
+            "bodyText": "- Build several deep learning models from the ground up\n -  Advanced deep learning with Keras ",
+            "links": [
+
+                {
+                    "text": "Github",
+                    "href": "https://github.com/thickett/Colon-classifier.git"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Computer Vision",
+                "Keras",
+                "TensorFlow",
+                "CNN",
+                "Transfer Learning",
+                "Data Augmentation",
+                "Benchmarking"
+            ]
+        },
+        {
+            "image" : "images/projects/energy-pred-poster1.webp",
+            "title": "High-scale efficent ML pipelines - Molecular Energy Predictor",
+            "bodyText": "- Built an efficent and scalable ML pipeline using Pyspark and hadoop",
+            "links": [
+
+                {
+                    "text": "Github",
+                    "href": "https://github.com/thickett/SPE-Molecular_energy_predictions.git"
+                }
+            ],
+            "tags" : [
+                "PySpark",
+                "Hadoop",
+                "HDFS",
+                "GBM",
+                "XGBoost",
+                "Compute Optimization"
+            ]
         }
 
     ]
