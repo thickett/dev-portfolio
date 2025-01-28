@@ -1,19 +1,25 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "Jan 2022 - Sep 2023",
+            "cardTitle": "University of London",
+            "cardSubtitle":"MSc. Data Science and Artificial Intelligence",
+            "cardDetailedText": "Distinction - 86%",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/portfolioLogo.svg"
             }
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "Sep 2018 - Sep 2021",
+            "cardTitle": "University of Nottingham",
+            "cardSubtitle":"BSc. Chemistry",
+            "cardDetailedText": "Second Class Division One"
+        },
+        {
+            "title": "Sep 2016 -  May 2018",
+            "cardTitle": "Brinsworth Academy",
+            "cardSubtitle":"A-Levels",
+            "cardDetailedText": "AAA Chem|Bio|Maths"
         }
     ]
 }

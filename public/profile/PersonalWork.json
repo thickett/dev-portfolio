@@ -1,0 +1,55 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/optimised-cv-poster.PNG",
+            "title": "OptimisedCVs",
+            "bodyText": "- Fully functioning monetised website for CV generations\n -  efficent and scalable agentic systems",
+            "links": [
+
+                {
+                    "text": "Live",
+                    "href": "https://www.optimisedcvs.com"
+                }
+            ],
+            "tags" : [
+                "React",
+                "TypeScript",
+                "python",
+                "FastAPI",
+                "Celery",
+                "PostgreSQL",
+                "AWS - Bedrock",
+                "AWS - EC2",
+                "AWS - S3",
+                "LangChain",
+                "Pinecone",
+                "RAG"
+            ]
+        },
+        {
+            "image" : "images/projects/0_3ThqaUUHNwzf9Ks6.webp",
+            "title": "Analytics As A Service",
+            "bodyText": "- Functioning text-to-SQL agentic system for report generation\n -  Implemented using Langchain\n - Presented using Streamlit",
+            "links": [
+
+                {
+                    "text": "Github",
+                    "href": "https://www.optimisedcvs.com"
+                },
+                {
+                    "text": "Article",
+                    "href":"https://medium.com/@cthickett99/effortless-insights-your-guide-to-creating-llm-based-ai-for-advanced-database-queries-and-analysis-a9ffdec14025"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "LangChain",
+                "ReAct",
+                "SQL",
+                "Generative AI",
+                "Streamlit"
+            ]
+        }
+
+    ]
+}

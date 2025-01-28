@@ -71,6 +71,7 @@ function Experience(props) {
                         <h4 style={{ ...styles.subtitleStyle, color: theme.accentColor }}>
                           {item.subtitle}
                         </h4>
+
                         {item.workType && (
                         <h5 style={styles.inlineChild}>
                     &nbsp;·

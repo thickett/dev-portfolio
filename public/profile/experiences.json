@@ -1,33 +1,40 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Founder",
+            "subtitle": "OptimisedCVs",
+            "link":"https://www.optimisedcvs.com",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Directed the design and implementation of full-stack solutions, securing our first users within a month of the initial prototype.",
+                "Developed a high-performance API service, enabiling scalable operations.",
+                "produced an efficent, cost-effect and scalable agentic system for generating tailored CVs"
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "Nov 2024 – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Product Analyst - Conversational AI",
+            "subtitle": "StepStones (TotalJobs)",
+            "workType": "Full-time",
             "workDescription": [
-                "Worked on abc."
+                "Developed and productionised an LLM evaluation suite that streamlined the investment decision process.",
+                "Proposed and executed Transformer based model for message frequency predictions, saving high six-figures annually through optimised resource management.",
+                "Led research Initiatives in the R&D team to improve in-house evaluation, and programtic prompt assembly abilities.",
+                "Designed, and implemented an in-house agentic system for database querrying and report generation",
+                "Orchestrated and maintained several high-value, high-throughput data pipelines."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "May 2023 – Nov 2024"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Data Scientist",
+            "subtitle": "Covea Insurance",
+            "workType": "Full-time",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Developed GLM and GBM pricing models for our major commercial insurance product.",
+                "Designed and implemented NLP algorithms for job-type clustering, saving the underwriting function thousands of manual hours annualy.",
+                "Maintained and managed major data pipleines crucial for the upkeep of core operations."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "April 2022 – May 2023"
         }
     ]
 }

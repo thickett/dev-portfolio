@@ -1,10 +1,10 @@
 {
-  "short_name": "Mayank Agarwal",
-  "name": "Mayank Agarwal - Portfolio",
+  "short_name": "Callum Thickett",
+  "name": "Callum Thickett - Portfolio",
   "icons": [
     {
-      "src": "images/logo.png",
-      "type": "image/png",
+      "src": "images/portfolioLogo.svg",
+      "type": "image/svg",
       "sizes": "425x225"
     }
   ],
