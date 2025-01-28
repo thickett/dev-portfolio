@@ -21,8 +21,8 @@
             "headerTitle": "Experience"
         },
         {
-            "component": "PersonalWork",
-            "path": "/PersonalWork",
+            "component": "Projects",
+            "path": "/projects",
             "headerTitle": "Personal Work"
         }
     ]
